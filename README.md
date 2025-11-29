@@ -1,7 +1,3 @@
-## Contributing to KWin
-
-Please refer to the [contributing document](CONTRIBUTING.md) for everything you need to know to get started contributing to KWin.
-
 ## Contacting the Sonic DE development team
 
 * IRC: #sonicde on irc.libera.chat
