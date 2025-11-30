@@ -1,9 +1,9 @@
-# Sonic DE
+# Sonic Desktop Environment (SonicDE)
 
-## Contacting the Sonic DE development team
+## Contacting the SonicDE development team
 
 * IRC: #sonicde on irc.libera.chat
-* Telegram: (https://t.me/sonic_de)
+* Telegram: https://t.me/sonic_de
 
 ## Support
 
@@ -13,7 +13,7 @@ If you are an application developer having questions regarding windowing systems
 
 ### End user
 
-Please contact the support channels of your Linux distribution for user support. The Sonic DE development team does not provide end user support.
+Please contact the support channels of your Linux distribution for user support. The Sonic DE development team does not provide end-user support.
 
 ## Reporting bugs
 
