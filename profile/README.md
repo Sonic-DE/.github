@@ -1,5 +1,7 @@
 # Sonic Desktop Environment (SonicDE)
 
+The community-driven Sonic Desktop Environment aims for keeping and improving the X11-specific ascpects of KDE. Currently it consists of the customized KWin/X11 and Plasma Desktop components.
+
 ## Contacting the SonicDE development team
 
 * IRC: #sonicde on irc.libera.chat
