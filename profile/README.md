@@ -1,6 +1,6 @@
 ## SonicDE, the Sonic Desktop Environment
 
-The community-driven Sonic Desktop Environment aims to preserve and improve the X11-specific aspects of KDE. It currently consists of the customized KWin/X11 `sonic-win`, Plasma Workspace components, the Silver theme, and some support libraries.
+The community-driven Sonic Desktop Environment aims to preserve and improve the X11-specific aspects of KDE. It currently consists of the customized KWin/X11 `sonic-win`, Plasma Workspace components, the Silver theme, an SDDM theme, and some support libraries.
 
 ### Contact
 
