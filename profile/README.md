@@ -1,6 +1,6 @@
 ## SonicDE, the Sonic Desktop Environment
 
-SonicDE is a fork of KDE that aims to preserve and improve the X11 and init system agnostic aspects of KDE since they announced they are going Wayland-only in KDE Plasma 6.8 and have been actively moving towards a systemd only future. SonicDE currently consists of over 120 repositories including the customized sonic-win (KWin/X11) window manager and compositor, Plasma Workspace components, the Silver theme, the Sonic Login Manager, and other components and support libraries.
+SonicDE is the community-driven desktop environment forked from KDE Plasma 6. It aims to preserve and improve X11 support and init-system independence, making it a complete and viable alternative. We currently maintain 139 components, including the customized `sonic-win` window manager and compositor, Sonic Workspace components, the Silver theme, the Sonic Login Manager, and supporting libraries.
 
 ### Contact
 
